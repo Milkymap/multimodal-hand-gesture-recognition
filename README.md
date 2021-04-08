@@ -1,5 +1,5 @@
 # multimodal-hand-gesture-recognition
-This project is an implementation of a multimodal approch for the recognotion of hand gesture. 
+This project is an implementation of a multimodal approcah for the recognition of hand gesture. 
 
 # contents
 * [structure](#structure)
