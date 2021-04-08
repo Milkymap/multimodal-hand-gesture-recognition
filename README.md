@@ -39,6 +39,13 @@ It contains the :
     * predicting
         * this module allows to make real time prediction 
         * it is based on opencv and keras  
+    * utilities
+        * contains usefull function such as : 
+        * matrix generation 
+        * sign drawing 
+        * model creation   
+    * static
+        * contains image and font for the readme
 * following files
     * git config
         * .gitignore
