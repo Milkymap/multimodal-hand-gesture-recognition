@@ -101,6 +101,7 @@ def grab(model_storage):
 								message_position_reference
 							)
 
+
 						cv2.rectangle(skeleton, (x, y), (x + w, y + h), (0, 0, 255), 2)
 						cv2.imshow(screen_1, resized_matrix)
 

@@ -1,5 +1,16 @@
 # multimodal-hand-gesture-recognition
-This project is an implementation of a multimodal approcah for the recognition of hand gesture. 
+
+<p align="center"> 
+  <img src="./static/description.png">
+  <h3 align="center">
+    A python script based on opencv and mediapipe that allows to recognize hand gesture
+  </h3>  
+</p>
+
+---
+---
+
+
 
 # contents
 * [structure](#structure)
